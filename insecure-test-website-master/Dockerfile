@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:21.2-alpine3.18
 
 ENV PROJECT_URL="https://github.com/camcamfresh/insecure-test-website/archive/master.zip"
 
